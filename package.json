@@ -1,7 +1,7 @@
 {
-  "name": "discord-bot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "hazzebot",
+  "version": "0.1",
+  "description": "Многофункциональный бот для модерации.",
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^12.2.0"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SmokyPlay/discord-bot.git"
+    "url": "git+https://github.com/kahendrik/hazzebot.git"
   },
-  "author": "SmokyPlay",
+  "author": "HazzeHorwell",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SmokyPlay/discord-bot/issues"
+    "url": "https://github.com/kahendrik/hazzebot/issues"
   },
-  "homepage": "https://github.com/SmokyPlay/discord-bot#readme"
+  "homepage": "https://github.com/kahendrik/hazzebot#readme"
 }
